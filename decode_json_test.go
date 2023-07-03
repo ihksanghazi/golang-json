@@ -22,4 +22,5 @@ func TestDecodeJSON(t *testing.T){
 	fmt.Println(customer.Lastname)
 	fmt.Println(customer.Age)
 	fmt.Println(customer.Married)
+
 }
